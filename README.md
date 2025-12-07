@@ -1,6 +1,4 @@
-<div align="center">
-  ![pixel-koi-pond_800](https://github.com/user-attachments/assets/484273f7-b41d-4054-bdee-70ac8acfa602)
-</div>
+![pixel-koi-pond_800](https://github.com/user-attachments/assets/4893d3ce-fce8-41da-b78b-3e038d6ece19)
 
 <h1 align="center">Hello there 👋 I'm [Alexander]</h1>
 
