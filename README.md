@@ -1,7 +1,8 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/4893d3ce-fce8-41da-b78b-3e038d6ece19" alt="Pixel Art Koi Pond" width="100%"/>
 </div>
-<h1 align="center">Hello there 👋 I'm [Alexander]</h1>
+
+<h1 align="center">Hello there 👋 I'm Alexander (or just an Alex)</h1>
 
 <h3 align="center">A passionate Backend Developer from Bishkek, Kyrgyzstan</h3>
 
