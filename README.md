@@ -21,9 +21,9 @@
 ### <span style="color: #a6e3a1;">💼 Work Experience</span>
 
 *   <span style="color: #a6e3a1;">**Backend Developer @ GeekStudio**</span> _(3 months)_
-    *   Contributed to API development and system architecture.
-*   <span style="color: #a6e3a1;">**Backend Developer @ GeeksPro**</span> _(6 months)_
     *   Gained solid commercial experience in backend development.
+*   <span style="color: #a6e3a1;">**Backend Developer @ GeeksPro**</span> _(6 months)_
+    *   Contributed to API development and system architecture.
 
 <span style="color: #a6e3a1;">**I have over a year of combined experience in the field.**</span>
 
